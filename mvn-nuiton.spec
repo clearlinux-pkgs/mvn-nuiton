@@ -4,7 +4,7 @@
 #
 Name     : mvn-nuiton
 Version  : 1.3
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/org/nuiton/processor/nuiton-processor/1.3/nuiton-processor-1.3.jar
 Source0  : https://repo1.maven.org/maven2/org/nuiton/processor/nuiton-processor/1.3/nuiton-processor-1.3.jar
 Source1  : https://repo1.maven.org/maven2/org/nuiton/mavenpom/3.4.4/mavenpom-3.4.4.pom
